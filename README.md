@@ -22,3 +22,14 @@ PAYMENTS : Amount of Payment done by user
 MINIMUM_PAYMENTS : Minimum amount of payments made by user
 PRCFULLPAYMENT : Percent of full payment paid by user
 TENURE : Tenure of credit card service for user
+
+<table>
+  <tr><td>
+    <img src="https://drive.google.com/uc?id=1OjWCpwRHlCSNYaJoUUd2QGryT9CoQJ5e"
+         alt="Fashion MNIST sprite"  width="1000">
+  </td></tr>
+  <tr><td align="center">
+    <b>Figure 1. Customers Segmentation
+  </td></tr>
+</table>
+
